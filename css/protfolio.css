@@ -1,0 +1,64 @@
+body{
+    background-color: #292424;
+}
+h1{ 
+    color: white;
+}
+h2{
+    color: white;
+}
+
+.my{
+    text-align: left;
+    position:absolute;
+    right:50%;
+    margin-top: 5%;
+    width: 30%;
+    height:65%;
+}
+.viber{
+
+    text-align: right;
+    position:absolute;
+    right: 16%;
+    margin-top: 5%;
+    width: 30%;
+    height:67%;
+    top: 130px;
+
+}
+a{
+    color: skyblue;
+}
+b{
+    color: yellow;
+}
+.imgpc{
+    text-align: right;
+    position:absolute;
+    right: 16%;
+    margin-top: 5%;
+    width: 30%;
+    height:65%;
+    top: 600px;
+}
+.user{
+    text-align: left;
+    position:absolute;
+    right:50%;
+    margin-top: 5%;
+    width: 30%;
+    height:65%;
+    top: 600px;
+}
+.viber :hover{
+    color: yellow;
+ background-color: red;
+}
+h1{
+
+    text-align: center;
+}
+h2{
+    text-align: center;
+}

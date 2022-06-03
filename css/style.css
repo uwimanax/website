@@ -1,0 +1,62 @@
+body{
+  background-color: #292424;
+  
+}
+nav{
+    padding: 1.8rem;
+    justify-content: space-between;
+    display: flex;
+    box-shadow: 0 1.2rem 2.4rem rgba(43, 38, 38, 0.392) ;
+    position: sticky;
+    top: 0px;
+    z-index: 999;
+    width: 10%;
+    left: 10%;
+}
+.nav-links{
+    color: white;
+}
+ul ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    background-color:white;
+    height: 100%; /* Full height */
+    position: fixed; /* Make it stick, even on scroll */
+    overflow: auto; /* Enable scrolling if the sidenav has too much content */
+  }
+  li a {
+    display: white;
+    color:white;
+  }
+  li a:hover {
+    background-color:nane;
+    color:rgb(235, 103, 10);
+  }
+  .my{
+    margin-left: 10%;
+    margin-top:4%;
+    margin-bottom:2%;
+    width: 40%;
+    height: 10%;
+    background-color: #292424;
+
+  }
+ .prag{
+
+    text-align: left;
+    position: absolute;
+    top:200px;
+    right:10%;
+    font-size: medium;
+   margin-top: 5%;
+    margin-left: 4%;
+    margin-bottom: 3%;
+    color: white;
+   
+  }
+  a{
+    color:skyblue;
+  }
+  
